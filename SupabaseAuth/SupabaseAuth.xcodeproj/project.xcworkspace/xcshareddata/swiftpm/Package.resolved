@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GoTrue",
+        "repositoryURL": "https://github.com/supabase/gotrue-swift.git",
+        "state": {
+          "branch": "main",
+          "revision": "7395e3a833af2d36911f83dc00da3ed78a23c114",
+          "version": null
+        }
+      },
+      {
+        "package": "PostgREST",
+        "repositoryURL": "https://github.com/supabase/postgrest-swift",
+        "state": {
+          "branch": "master",
+          "revision": "20986b605da90493b456453683b7ca2a74fa075a",
+          "version": null
+        }
+      },
+      {
+        "package": "Realtime",
+        "repositoryURL": "https://github.com/supabase/realtime-swift.git",
+        "state": {
+          "branch": "main",
+          "revision": "242acdcbbf8c4f063c114831a3e7820c4dbf61a6",
+          "version": null
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
+        "state": {
+          "branch": null,
+          "revision": "e6b65c6d9077ea48b4a7bdda8994a1d3c6969c8d",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "SupabaseStorage",
+        "repositoryURL": "https://github.com/supabase/storage-swift.git",
+        "state": {
+          "branch": "main",
+          "revision": "ecc1b8b860cc67096be241f15d370451ed93f3ae",
+          "version": null
+        }
+      },
+      {
+        "package": "Supabase",
+        "repositoryURL": "https://github.com/supabase/supabase-swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "ad61ce7c9e7837e0d26f34efe526e58b870b371b",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
